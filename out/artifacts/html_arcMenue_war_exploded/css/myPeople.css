@@ -1,0 +1,25 @@
+#id_back{
+    position: absolute;
+    left: 0;
+    top: 0px;
+    width:720px;
+    height:1280px;
+}
+
+
+#id_lookback{
+    position: absolute;
+    left: 260px;
+    top: 1150px;
+    width:134px;
+    height:84px;
+}
+
+#id_lookfoward{
+    position: absolute;
+    left: 400px;
+    top: 1150px;
+    width:134px;
+    height:84px;
+}
+

@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="html_arcMenue:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/html_arcMenue_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="html_arcMenue/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="html_arcMenue" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
